@@ -30,7 +30,7 @@ public with sharing class Constant {
     public static final String RELEASED_FOR_SELLER = 'Returned to Seller';
     public static final String SOLD = 'Sold';
     public static final String UNSOLD = 'Unsold';
-	public String blah = 'blah1';
+    public static final String SPRING_ROLL = 'Spring Roll';
             
     public Constant() {        
     }    
